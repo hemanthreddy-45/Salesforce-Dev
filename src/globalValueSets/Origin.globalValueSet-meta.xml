@@ -6,11 +6,6 @@
         <label>North America</label>
     </customValue>
     <customValue>
-        <fullName>South America</fullName>
-        <default>false</default>
-        <label>South America</label>
-    </customValue>
-    <customValue>
         <fullName>Asia</fullName>
         <default>false</default>
         <label>Asia</label>
