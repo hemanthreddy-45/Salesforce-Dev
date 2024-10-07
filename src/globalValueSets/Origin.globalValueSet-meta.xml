@@ -10,6 +10,11 @@
         <default>false</default>
         <label>Asia</label>
     </customValue>
+    <customValue>
+        <fullName>South America</fullName>
+        <default>false</default>
+        <label>South America</label>
+    </customValue>
     <description>Region</description>
     <masterLabel>Origin</masterLabel>
     <sorted>false</sorted>
